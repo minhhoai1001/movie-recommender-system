@@ -5,3 +5,4 @@ data/The_Movies/keywords.csv
 data/The_Movies/movies_metadata.csv
 data/The_Movies/ratings.csv
 data/TMDB_5000
+model_similarity.pkl
